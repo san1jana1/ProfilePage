@@ -10,7 +10,7 @@
 <header>
  <nav>
   <ul>
-   <li><a href="https://FresherProfiles.com">Fresherprofiles</a></li>
+   <li><a href="https://FresherProfiles.com">Fresher</a></li>
    <li><a href="https://fresherprofiles.com/web/student">Profile Builder</a></li>
   </ul>
  </nav>
